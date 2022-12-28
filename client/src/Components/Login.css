@@ -1,0 +1,116 @@
+.login-comp{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.title{
+    display: flex;
+    background-color: #037853;
+    font-size: 40px;
+    width: 100vw;
+    height: 6vh;
+    color: white;
+    padding:3vh;
+}
+
+.navRight{
+    font-size: 20px;
+
+
+}
+
+.navSignIn{
+    position: absolute;
+
+    right:10%;
+    font-size: 20px;
+
+
+}
+
+.navSignUp{
+    position: absolute;
+
+    right:5%;
+    font-size: 20px;
+
+
+}
+.mainImage{
+    margin-top:12vw;
+    width:50vw;
+    border-radius: 10px;
+    height: 40vh;
+
+}
+
+.slider{
+    width:50vw;
+    height: 40vh;
+
+
+}
+
+.second-part{
+    display: flex;
+}
+
+.reg-part{
+    height: 50vh;
+    width:40vw;
+    background-color:#FFFFF7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.newuser{
+    display: flex;
+    height: 49%;
+    font-size: 28px;
+    color: black;
+}
+
+.forreg{
+    margin-top: 20px;
+    
+}
+
+
+.login-part{
+
+    width: 60vw;
+    background-color:#F8FFDC;
+    display: flex;    
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+
+
+.foremail,.foremailinp,.forpassword,.forpass,.forsignin-btn{
+    font-size: 24px;
+    font-family: Garamond, serif;
+
+}
+
+.forsignin-btn{
+    color:#2874f0;
+    background-color: white;
+    height: 8vh;
+    width: 20vw;
+}
+
+
+
+.mainDiv{
+    background-color: #FFFFF7;
+    justify-content: center;
+    align-items: center;
+
+
+}

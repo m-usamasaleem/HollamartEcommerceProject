@@ -1,0 +1,92 @@
+.parentcont{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.head-listcart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:10vh;
+    width:100vw;
+    /* margin-left: 20px; */
+    font-size: 40px;
+    position:sticky;
+    top:0;
+    background-color: #037853;
+    color: white;
+}
+
+
+.emptycart{
+    /* background-color: aquamarine; */
+    margin-top: 36vh;
+    font-size: 60px;    
+    border: 1px solid lightblue;
+    z-index: 20;
+    
+}
+
+.add-prod{
+    margin-top: 10px;
+    font-size: 24px;
+    z-index: 20;
+}
+
+.clickme-btn{
+    font-size: 24px;
+    width: 20%;
+}
+
+.forhandlingaddress{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
+    font-size: 24px;
+    border-radius: 5px;
+}
+
+.faSignOut{
+    color: white;
+    padding:1vh;
+    width: 8vh;
+
+
+}
+
+
+.faCartShoppingIcon1{
+    margin-top: 1%;
+    margin-left:40%;
+
+}
+.parent-address{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#FFFFF7;
+}
+
+.home-add{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;   
+    display:flex;
+
+}
+
+
+
+.login-three1{
+    height: 32%;
+    margin-top: 10%;
+
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    
+}

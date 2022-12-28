@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    row-gap: 100px; 
+    flex-direction: column; 
+    padding:10px;
+
+}
+    /* height: 100vh;  */
+    /* width: 100%;
+    align-items: center;
+    */
+    
+    
+
+
+
+
+
+.search {
+    margin-left:20vh;
+    width: 100%;
+    border: 3px solid white;
+    font-size: 20px;
+    color:white;
+    border-radius: 8px;
+    color:white;
+
+
+}
+
+ul li {
+    font-size: 10px;
+} 
